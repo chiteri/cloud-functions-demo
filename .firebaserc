@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "moove-fit-demo"
+    "default": "moove-fit-demo",
+    "staging": "moove-fit-demo"
   }
 }
